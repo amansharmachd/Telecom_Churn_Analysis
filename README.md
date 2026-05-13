@@ -11,41 +11,61 @@ The dataset used in this project contains structured data for analysis purposes.
 Dataset Features May Include:
 
 Customer information
+
 Sales records
+
 Product details
+
 Transaction data
+
 Regional performance metrics
 
 Tools & Technologies
 
 Python -	Data loading and cleaning
+
 Pandas -	Data manipulation and preprocessing
+
 MySQL Workbench	- SQL querying and analysis
+
 Power BI - Dashboard creation and visualization
+
 Excel - Dataset source format
 
 Project Workflow
+
 1. Data Loading in Python
 Imported dataset using Pandas
+
 Explored rows, columns, and data types
+
 Checked dataset structure and summary statistics
 
-2. Data Cleaning
+3. Data Cleaning
 Removed duplicate records
+
 Handled missing/null values
+
 Corrected inconsistent data formats
+
 Renamed columns for better readability
+
 Prepared clean dataset for SQL analysis
 
-3. SQL Analysis in MySQL Workbench
+5. SQL Analysis in MySQL Workbench
 
 Performed SQL queries to extract business insights such as:
 
 Total Customers who churned
+
 Total revenue
+
 Overall Churn Rate of customers
+
 Customer trends
+
 Aggregations using GROUP BY
+
 Filtering using WHERE
 
 
@@ -56,10 +76,15 @@ Created an interactive dashboard to visualize key insights and performance metri
 Dashboard Highlights:
 
 KPI Cards
+
 Churn by services
+
 Category Performance
+
 Interactive Filters & Slicers
+
 Charts and Visual Reports
+
 Dashboard Preview
 
 https://github.com/amansharmachd/Telecom_Churn_Analysis/blob/main/Telecom_Churn_Analysis_dashboard.png
